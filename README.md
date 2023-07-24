@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! I'm Çağdaş 👋 
 
-<!--
-**cagdaskemik/cagdaskemik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ghbg](https://github.com/cagdaskemik/cagdaskemik/assets/108903103/273ee65e-c5c6-44a3-a1b0-e2519f779493)
 
-Here are some ideas to get you started:
+<!-- ![Profile Banner] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a Software Engineer, dancer, and music enthusiast ~ I'm always passionate about what I do, and I love to create stuff for the web!
+
+## 📚 About Me
+
+(https://cagdas.vercel.app)
+
+## 📫 Contact Me
+
+You can reach me via email at [ cagdaskemik@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/cagdas-kemik/). If you want, you can message me directly (and anonymously) on [my page](cagdas.vercel.app), at the most bottom section!
+
+
+
+
+
+

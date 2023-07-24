@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Software Engineer, dancer, and music enthusi
 
 ## 📫 Contact Me
 
-You can reach me via email at [ cagdaskemik@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/cagdas-kemik/). If you want, you can message me directly (and anonymously) on [my page](cagdas.vercel.app), at the most bottom section!
+You can reach me via email at [ cagdaskemik@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/cagdas-kemik/). If you want, you can message me directly (and anonymously) on [my page](https://cagdas.vercel.app), at the most bottom section!
 
 
 

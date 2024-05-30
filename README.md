@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Software Engineer, dancer, and music enthusi
 
 ## 📚 About Me
 
-(https://cagdas.vercel.app)
+(https://kemik.dev)
 
 ## 📫 Contact Me
 
